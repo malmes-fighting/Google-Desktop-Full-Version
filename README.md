@@ -236,3 +236,6 @@ This repository serves as the official landing page for Google Desktop. The soft
 - 💬 **[Community](https://softyne.com/about-us/)**
 ---
 **Get the most recent version of Google Desktop today!**
+
+---
+**Last updated:** 2026-09-10 12:48:59 UTC
